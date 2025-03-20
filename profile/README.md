@@ -8,4 +8,5 @@
 - CI Server : Jenkins
 - 형상관리 : Github
 - OS : Rocky Linux, Window
+- Web Server : Apache, Nginx
 <br>
